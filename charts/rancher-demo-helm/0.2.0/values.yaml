@@ -79,3 +79,5 @@ nodeSelector: {}
 tolerations: []
 
 affinity: {}
+cow_color: "red"
+cow_color: "red"
